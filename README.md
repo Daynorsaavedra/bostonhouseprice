@@ -6,6 +6,7 @@
 2. [VS_Code_IDE](https://code.visualstudio.com)
 3. [Heroku_Account](https://heroku.com)
 4. [Git_CLI](https://git-scm.com)
+5. [Postman](https://postman.com)
 
 Create new enviroment
 
